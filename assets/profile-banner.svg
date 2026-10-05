@@ -24,7 +24,7 @@
     <text x="76" y="84" fill="#9deafa" font-size="16" font-weight="700" letter-spacing="4">COMPUTER SCIENCE STUDENT</text>
     <text x="72" y="158" fill="#fff" font-size="54" font-weight="750">Jenson Abraham Jackson</text>
     <text x="76" y="204" fill="#d0e7f8" font-size="22">Cybersecurity  ·  Cloud Engineering  ·  Software Projects</text>
-    <rect x="76" y="239" width="226" height="42" rx="21" fill="#062032" stroke="#43d5eb" stroke-opacity=".8"/>
+    <rect x="76" y="239" width="320" height="42" rx="21" fill="#062032" stroke="#43d5eb" stroke-opacity=".8"/>
     <circle cx="99" cy="260" r="6" fill="#53e0a5"/>
     <text x="116" y="266" fill="#d8f5ff" font-size="15" font-weight="650" letter-spacing="1">ALWAYS LEARNING &amp; BUILDING</text>
   </g>
