@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Jenson Abraham Jackson — Computer Science student focused on cybersecurity and cloud engineering" width="100%" />
+  <img src="./assets/profile-banner-wide.svg" alt="Jenson Abraham Jackson — Computer Science student focused on cybersecurity and cloud engineering" width="100%" />
 </div>
 
 <div align="center">
