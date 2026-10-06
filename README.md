@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Exploring-Cybersecurity-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Exploring Cybersecurity" />
   <img src="https://img.shields.io/badge/Exploring-Cloud%20Engineering-0891b2?style=for-the-badge&logo=icloud&logoColor=white" alt="Exploring Cloud Engineering" />
   <img src="https://img.shields.io/badge/AI-Assisted%20Building-059669?style=for-the-badge&logo=openai&logoColor=white" alt="AI assisted building" />
+  <img src="https://img.shields.io/badge/SC--900-Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-900 certified" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
 </div>
 
 ---
@@ -75,6 +77,16 @@ A full-stack food-ordering application built around sample restaurants in Kuchin
 A small browser geolocation prototype built with HTML, CSS, and JavaScript. After the visitor grants browser location permission, it reverse-geocodes the coordinates with OpenStreetMap Nominatim and displays a map link.
 
 **Data flow:** The current prototype also sends the retrieved coordinates and address to a configured Google Apps Script endpoint. This should be made clear to users and reviewed before using the app with anyone else's location.
+
+## 🏅 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft-SC--900%20Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+</div>
+
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+- **AWS Certified Cloud Practitioner**
 
 ## 🌱 Currently
 
